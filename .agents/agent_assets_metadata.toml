@@ -1,8 +1,0 @@
-uploads = []
-generated = []
-
-[[outputs]]
-id = "CpRSnpczuvF55QfaSb3Xs"
-uri = "file://docs/DEPLOYMENT_GUIDE.md"
-type = "text"
-title = "Deployment Guide (Updated with Custom Domain Setup)"
