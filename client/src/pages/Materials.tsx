@@ -5,7 +5,7 @@ import { Pencil, Plus, Trash2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { queryClient, apiRequest } from "@/lib/queryClient";
 import { useToast } from "@/hooks/use-toast";
-import { MaterialFormModal } from "@/components/MaterialFormModal";
+import { MaterialFormModal } from "@/components/modals/MaterialFormModal";
 import type { Material } from "@shared/schema";
 
 export default function Materials() {

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
-import { StatusBadge, JobStatus } from "@/components/StatusBadge";
-import { CleaningFormModal } from "@/components/CleaningFormModal";
+import { StatusBadge, JobStatus } from "@/components/shared/StatusBadge";
+import { CleaningFormModal } from "@/components/modals/CleaningFormModal";
 import { Pencil, Plus } from "lucide-react";
 import { cn } from "@/lib/utils";
 

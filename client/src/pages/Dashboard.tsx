@@ -1,11 +1,11 @@
 import { useState, useMemo, useRef, useEffect } from "react";
 import { useLocation } from "wouter";
 import { useQuery, useMutation } from "@tanstack/react-query";
-import { MetricBox } from "@/components/MetricBox";
-import { JobTable } from "@/components/JobTable";
-import { JobEditModal } from "@/components/JobEditModal";
+import { MetricBox } from "@/components/shared/MetricBox";
+import { JobTable } from "@/components/job/JobTable";
+import { JobEditModal } from "@/components/modals/JobEditModal";
 import { foundryConfig } from "@/config/foundryConfig";
-import { SplitJobDialog } from "@/components/SplitJobDialog";
+import { SplitJobDialog } from "@/components/modals/SplitJobDialog";
 import { Briefcase, Search, Loader2, RefreshCw, Clock } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";

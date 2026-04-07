@@ -3,7 +3,7 @@ import { useQuery, useMutation } from "@tanstack/react-query";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { WorkflowStatusFormModal } from "@/components/WorkflowStatusFormModal";
+import { WorkflowStatusFormModal } from "@/components/modals/WorkflowStatusFormModal";
 import { Pencil, Plus, Trash2, ChevronUp, ChevronDown, AlertTriangle, CheckCircle2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { queryClient, apiRequest } from "@/lib/queryClient";

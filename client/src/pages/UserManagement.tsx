@@ -6,7 +6,7 @@ import { Pencil, Plus, Trash2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { queryClient, apiRequest } from "@/lib/queryClient";
 import { useToast } from "@/hooks/use-toast";
-import { UserFormModal } from "@/components/UserFormModal";
+import { UserFormModal } from "@/components/modals/UserFormModal";
 import type { User } from "@shared/schema";
 
 const roleColors: Record<string, string> = {

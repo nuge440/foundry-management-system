@@ -4,8 +4,8 @@ import { Button } from "@/components/ui/button";
 import { Pencil, Plus, Trash2, List } from "lucide-react";
 import { cn } from "@/lib/utils";
 import type { ChecklistTemplate } from "@shared/schema";
-import { ChecklistTemplateFormModal } from "@/components/ChecklistTemplateFormModal";
-import { ChecklistTemplateItemsModal } from "@/components/ChecklistTemplateItemsModal";
+import { ChecklistTemplateFormModal } from "@/components/modals/ChecklistTemplateFormModal";
+import { ChecklistTemplateItemsModal } from "@/components/modals/ChecklistTemplateItemsModal";
 import { apiRequest, queryClient } from "@/lib/queryClient";
 import { useToast } from "@/hooks/use-toast";
 import {

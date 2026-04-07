@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Pencil, Plus, Trash2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import type { MoldChecklistItem } from "@shared/schema";
-import { ChecklistItemFormModal } from "@/components/ChecklistItemFormModal";
+import { ChecklistItemFormModal } from "@/components/modals/ChecklistItemFormModal";
 import { apiRequest, queryClient } from "@/lib/queryClient";
 import { useToast } from "@/hooks/use-toast";
 import {

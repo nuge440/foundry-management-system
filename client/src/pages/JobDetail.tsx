@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { ArrowLeft, Pencil, Loader2, ChevronDown, ChevronUp, AlertTriangle, CheckCircle2, Play, Circle, Info, ImageIcon } from "lucide-react";
-import { JobEditModal } from "@/components/JobEditModal";
+import { JobEditModal } from "@/components/modals/JobEditModal";
 import { foundryConfig } from "@/config/foundryConfig";
 import { apiRequest, queryClient, authFetch } from "@/lib/queryClient";
 import { useToast } from "@/hooks/use-toast";

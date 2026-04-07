@@ -1,4 +1,4 @@
-import type { JobStatus } from "@/components/StatusBadge";
+import type { JobStatus } from "@/components/shared/StatusBadge";
 
 export interface ImportedJob {
   id: string;

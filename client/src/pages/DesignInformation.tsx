@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
-import { StatusBadge, JobStatus } from "@/components/StatusBadge";
-import { DesignFormModal } from "@/components/DesignFormModal";
+import { StatusBadge, JobStatus } from "@/components/shared/StatusBadge";
+import { DesignFormModal } from "@/components/modals/DesignFormModal";
 import { Pencil, Plus, FileText, ExternalLink, Presentation } from "lucide-react";
 import { cn } from "@/lib/utils";
 
