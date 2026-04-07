@@ -1,0 +1,321 @@
+====================================================================================================
+CATEGORIZED MATERIALS LIST
+====================================================================================================
+
+====================================================================================================
+METALS (104 items)
+====================================================================================================
+Material                       Usage      Description
+----------------------------------------------------------------------------------------------------
+# A356 ALUMINUM                4672       A356 Aluminum-6/3/24  (1.67)
+# 60 DUCTILE                   4274       60-40-18 Ductile Fe jan 25
+# 80 DUCTILE                   3561       80-55-06    -  Jan 25
+# 30 GRAY IRON                 2952       Class 30 Gray Iron 3-1-22
+# WCB - LOW CARBON STEEL       2089       WCB -ASTM A21 -$0.54/# Jan 25
+# 40 GRAY IRON                 2034       Class 40 Gray Iron 3-1-22
+# NI RESIST - D2               1645       Ni Resist- D2 $8.45 - 4/28/25
+# 35 GRAY                      1297       Cl 35 based ($850  3-1-22)
+# NI RESIST TYPE 1             1196       Ni Resist Type 1 (Ni @ $
+# 319 ALUMINUM                 1169       319 Alum  ($1.40 base 1/10/25
+# 100 DUCTILE                  892        100-80-03  ($600.00/ ton)
+# CA6NM                        863        CA6NM CL A SS  $2.70 -Jan 25  
+# 316 S.S, - CF8M              841        316 SS - CF8M @$3.15  Jan 25
+# NIRESIST N-1B                594        Ni Resist N-1b@$8.45 --4/28/25
+# NI HARD                      572        Ni Hard Iron - Type 1 April 22
+# 65-45-12 DUCTILE             548        65-45-12 Cast Duct $830 Jan 25
+# 8630 - LOW CARBON            362        8630 Steel - scrap @0.60/#
+# 30 GRAY W/ 1% CR             282        Class 30 w/1% Cr ($925/ton)
+# C355                         273        C 355 Alum (6/3/24 $1.88/#)
+# 316L SS - CF3M               160        316L -LC SS  CF3M 3.25
+# CD4MCUN                      150        CD4MCuN -(2.99/# ingot) Jan 25
+# 41L40 - 1 1/8" DIA           140        Fergeson Pin Material
+# CD3MN - 2205 SS              104        Jan 25
+# 60001-30 DRESSER             78         Class 30 Gray ASTM A278 $1250.
+# 60000-30 DRESSER             69         30 Gray Iron ASTM A48 Jan 25
+# WCC - WEYVALVE               53         WCC Steel - w/Certs - Jan 25
+# CA15                         49         CA-15 Stainless  2-20-24
+# 61000-01 DRESSER             48         60-40-18 Duct ASTM A536 $1250.
+# 4140 STEEL                   45         
+# NIHARD- TYPE IV              45         Ni Hard - Type 4
+# 60,001 DRESSER GREY IRON     37         D-R matches ASTM A278 Jan 25
+# 60-40-18 DUCT ASTM A395      36         ASTM A395 60-40-18 Duct Jan 25
+# CA6NM CL B                   35         CA6NM CL B  - Jan 25
+# 61001-01 DRESSER             34         ASTM A395 60-40-18 -$1250.00
+# CN7M - ALLOY 20              30         CN7M -Alloy 20 -Nov 24 $5.67
+# 6061-T6                      26         Aluminum 6061 T6 Billit
+# AISI 4140                    25         AISI 4140 Pre- Heat Treated
+# C.I. INSERTS - FMC           23         EXA501825 - C.I. Inserts
+# 40 GRAY ARROW                20         40 G.I Arrow w/1% Mo at $36.40
+# 61001-02 DRESSER W CHARPY    15         ASTM A395  80-55-06 Duct $1250
+# 80 DUCTILE - LEWIS PUMP      14         80 Dutile w/ Tin D-24 ($950)
+# CAT 1E1122 96-60-02          14         Ductile Iron 90-60-02   3-1-22
+# 61000-05 DRESSER             13         65-45-12 Duct ASTM A536 Jan 25
+# 317 SS CG8M                  12         317 SS   GG8M
+# 332 ALUMINUM                 12         70009-00 Dresser Rand
+# LCB -LOW TEMP LOW CARBON STEEL 12         LCB - Needs Charpy 4-16-24
+# CE3MN - ASTM 995-5A          10         ASTM 995 -5A - (2507)
+# NI RESIST TYPE 2             10         8-11-21 - Ni @ $8.6/# LME
+# 20 GRAY IRON - BALDOR        9          based on $600/ton Pig
+# NI-RESIST D-2C               9          NiResist D-2C 12-2-24
+# 2.5" COLD ROLL - 1018        8          1018 steel - Morgan
+# 1.75" COLD ROLL              7          1018 Steel - Mrogan
+# 304 SS - CF8                 4          CF8  Stainless Steel 6-10-24
+# 60009-00 DRESSER RAND        4          CL 35 Gray with Alloy $1250.00
+# WCB- WEY - INCLUDES CERTS    4          WCB Wey -Includes Certs Jan 25
+# DRESSER 090-401              3          Class 35 Gray Iron 
+# CF-20 302 SS                 2          CF-20   302 SS
+# HI CROME A532 IID            2          Hi Chrome ASTM A532 IID
+# OIS-14-252                   2          Iron Bushing
+# OIS-14-324                   2          Iron Bushing
+# OIS-19-1005                  2          Steel Bushing for OIS-19-1468
+# WC1- CARBON STEEL            2          ASTM A217 WC1 9-17-25
+# WC6 ASTM  A217               2          WC6 - ASTM A217/A 217M- 07
+# 60009-00 DRESSER             1          Class 35 ASTM A278$1250.00
+# CAT 1E0018                   1          Gray Iron - CL 30 9-16-25
+# HI-CHROME 25%                1          Hi Chrome -ASTM 532 -IIIA 
+# NIRESIST N3                  1          Ni Resist N3 (LME @$8.25)
+# 090-314 DRESSER A278 CL 30   0          Dresser A278 Cl 30 Gray Iron
+# 17-4 PH CB7CU-1              0          ASTM A747
+# 27% CHROME                   0          27% Chrome -ASTM III-A
+# 303 S.S. CF-16F              0          303 Stainless 
+# 304 SS 1" X 1.5" LID LOCK    0          304 SS for Lid Lock Knappco
+# 304 SS 3" ROUND - POST       0          304 SS 3" Round KC Post
+# 304 SS 3/4" X 2" KNAPPCO     0          304 SS Clasp 3/4" x 2"  2.5" 
+# 330 STAINLESS                0          
+# 40 GRAY W/ 1.5% NICKEL       0          40 Gray w/ 1.5% Nickel RMSM
+# 50 GRAY - PER ASTM A278      0          CL 50 Gray Iron
+# 660 BRONZE                   0          660 Bearing Bronze
+# A27  GRADE 70-36             0          A27 Steel Grade 70-36
+# A297 STAINLESS STEEL         0          A297 Stainless Steel
+# ALLOY COMBUSTER              0          Med. Vel Alloy Combuster 
+# ASTM A 395 DUCTILE IRON      0          60-40-18 Duct - Annealed
+# ASTM A148  GRADE 90-60       0          ASTM 148 90-60
+# CARBON-DUCTILE IRON          0          SL GRAPH HEX 480
+# CAT 1E0170                   0          Steel - Structural
+# CAT 1E0509                   0          Steel - 4140 Modified
+# CAT 1E1667                   0          Steel Cast - SAE 15V22
+# CAT 1E5012                   0          Steel Cast-Structural Weldable
+# CD3MWCUN                     0          995 Grade 6A
+# CD6MN- ASTM A890 3A          0          9-25-25
+# CN7M                         0          CN7M - Stainless
+ HOT TOP -IRON                0          Expandex 544 500# drum
+ HOT TOP-IRON                 0          Expandex 544 500# drum
+ IRON - MELT COST             0          Iron Melt Cost -incl. adm
+ KAL PUR FOR IRON             0          3  X  6     10 PPI
+# MF01-013 DRESSER - CL 40 IRON 0          ASTM A48 - CE 3.7-3.9% 3-1-22 
+# MN STEEL                     0          
+# NI HARD TYPE I               0          Ni Hard Iron - Type 1
+# NI- RESIST D-4               0          Ni Resist D4 Ni $4.70
+# NICKEL                       0          RTZ
+# NIRESIST D5S                 0          Ductile NiResist D5-S
+# NO 1 COPPER                  0          Scrap
+# PIG IRON                     0          Sorel - Special low phos
+ S170 STEEL SHOT              0          Steel shot-s170
+
+
+====================================================================================================
+NON-METALS (162 items) - EXCLUDE THESE
+====================================================================================================
+Material                       Usage      Description
+----------------------------------------------------------------------------------------------------
+SAND - AIR SET                 29755      Sand - Air Set - 1-10-25
+STRESS RELIEVE                 4817       Stress Relieve - Iron 11/21/22
+ALUM - T6                      4497       Alum Heat Treat - T6  Jan 25
+WCB -NORMALIZED HT             1528       Normalize WCB - Jan 25
+NORMALIZING DUCTILE            1398       1600 F - Air Quench
+316 NORMALIZE                  1102       Normalize Water Quench Nov22
+CA6NM QUENCH AND TEMPER        877        CA6 Q &T       Jan 25
+DUCTILE ANNEAL                 580        Full Anneal for Duct 1-10-25
+CARBO SAND                     464        Carbo Sand
+SAND - SHELL                   377        Sand - shell
+NI HARD TEMPER                 123        Ni Hard Temper
+WCB - TEMPER                   109        Temper after Normalize  Jan 25
+3 1/4" COLD ROLL               108        3.25" Cold Roll - Clean Sol
+3 3/4" COLD ROLL               106        Cam Bar Stock for Clean Sol
+DUCTILE TEMPER                 66         60, 80 or 100 Temper/S.R.
+CA-15 Q & T                    45         CA-15 Air Q and Temper
+2" COLD ROLL                   42         Doodle - Square Scrub 
+SAND - WITH VEINSEAL FACING    41         Airset w/Veinseal for Facing
+2" 6061-T6 ALUM BAR            40         2" Alum for Doodle Clean Sol
+RISER SLEEVE                   40         1 1/2 X 8
+CDA-954 BRONZE TUBE            39         CDA-954 Bronze for OIS-18-338
+WELLS G-2 - 2.5 DIAMETER       39         2.5" for OIS-18-409
+WELLS - G2 1.875               37         Durabar - 1.7/8 Diameter 
+GASKET - LARGE                 36         Gasket - Large - Farr Co
+OIS-19-35                      35         1-1/4 x 1-5/8 x1-3/4 BRZ BRG
+WELLS - G2                     34         Wells Durabar - CL 40
+OIS-19-839-2-A                 33         Steel Bushing OIS-19-1467-0
+RISER SLEEVES                  32         6" x 6" Riser Sleeve Exo
+OIS-19-839-1                   29         Iron Bushing for OIS-19-1467-0
+6061-T651                      27         DME Alum Plate
+46024KS                        23         65-45-12 D.I $850 Jan 25
+3" ROUND T, G & P              22         3" Round 1045 T, G & P
+WELLS - G2 1.625               21         Wells Durabar - CL 40
+CDA BRONZE FOR OIS-16-1374-2   19         CDA-954 Bronze- OIS-169-1374-2
+OIS-19-33                      16         1-14 x -1-5/8 x 3-1/2
+3 3/8" COLD ROLL               13         3 3/8" Cold Roll for Clean Sol
+ALUM- T7                       12         Alum Heat Treat-T7 June 25
+#CAT 1E0356                     11         BHN 156-217       9-16-25 BI
+ZIRCON                         10         Zircon Sand 
+#CAT 1E0627                     6          SAE 1524 Modified
+SHELL SAND - HARRISON          6          
+HC 250 ANNEAL HI CHROME        4          Anneal High Chrome Iron
+SHELL SAND                     4          Obsolete Do not use
+HEVI SAND                      3          
+OIS-14-34-2                    3          Iron Bushing for OIS-19-1478-0
+OIS-19-44 BUSHING              3          Iron Bushing for OIS-19-911
+6061 T6 - 3.25" DIAMETER       2          Clean Solution Bearing Cap 
+#CAT 1E-1074   WELDABLE STEEL   2          
+12" X 24" X 1" FIXTURE PLATE   1          
+OIS-14-252 BUSHING             1          Bushing for OIS-14-323-A-O
+OIS-14-324 BUSHING             1          
+210027                         0          HTR 84KW 480 V W/O Plug
+24 INCH TUBE                   0          24" Silicon Carbide Tube
+30 INCH TUBE                   0          SIC THERMOCOUPLE TUBES 
+33 GALLON REFUSE BAG           0          Plastic refuse bags
+3D PRINTED CORES               0          
+4 X 12 RISER SLEEVES           0          Foseco Kalminex #122440
+4 X 6 RISER SLEEVE             0          4 X 6 Riser Sleeves
+4.5" TGP                       0          4.5" Round TG&P
+6" ROUND DURA-BAR G2           0          6" Round G.I Durabar
+66 INCH THERMOCOUPLE           0          K8R-66-2  8 Gauge Type K
+ABRASIVE BELT GREASE           0          Formax Brand Grade# F-90
+ABRASIVE BELTS                 0          4 x 36 2lb AL 180 grit 
+ABRASIVE WHEEL 16 IN           0          16" X .200 X 1
+ABRASIVE WHEEL 20 IN           0          20" X .220 X 1
+ALUMINIZED SLEEVE              0          ARL 871-12A
+ARI SLEEVE ADAPTER 2-D-8948    0          
+BAG CHARGE                     0          
+BAND SAW BLADES                0          250'x1/2"x.032x4 
+BAND SAW BLADES-2              0          132" X 1" X .035 (WELDED)
+BLUE SPRAY CLEANER             0          bathroom cleaner
+CAP MT FACE SHIELD MT BRACKET  0          H18
+CELTEX FILTER 3                0          2.1 x 2.1 .493 -100 cell
+CELTEX FILTERS                 0          2.6 X 2.6 X.493-100 CELL 
+CELTEX FILTERS2                0          3.2 X 3.2X .493-100 CELL
+CERAMCOTE ZWF                  0          Item 65150144
+CERAMIC FILTERS                0          3" X OD X 1", 20 PPI PSZT
+CHAPLETS                       0          1/4" Spool Chaplet 
+CHROMATE COATING               0          Chromate Coating for OI
+CLEAR FACE SHIELD              0          #WP96X-CL  9" x 18.25"
+CORE FILE NO 1                 0          1/8  X 8"
+CORE FILE NO 2                 0          1/2 X 8"
+CORE VENT D BRASS              0          3/8" X 5/16 Depth
+CORE VENTS D BRASS             0          1/2 " slotted .014
+CORE VENTS S BRASS             0          .014 slotted
+CORE VENTS XD BRASS            0          5/16"  slotted .014
+CORE WIRE                      0          1/8 inch X 12 ft.
+CRUCIBLE                       0          Melting crucible/base block
+CUP GRINDING WHEELS            0          6 x 2 x 5/8 NC
+DEPRESSED CTR WHEEL            0          Type27 9"x 1/8" x 5/8"-11
+DUO WRAP LEGGING               0          #RCL 385  SPLIT LEATHER
+EAR PLUGS-FOAM                 0          Moldex Pura-Fit MOL6800 
+ELECTRO-NITE                   0          IF-10
+EMULSION 77                    0          Release
+FERRO MANGANESE                0          Ferro Manganese
+FERRO MOLY                     0          500# Drum
+FERRO PHOS                     0          3 X 1
+FERRO SILICONE                 0          Lump - 75%  (4X2)
+FERROSILICONE                  0          3/8 x 12 Mesh
+FLOOR BROOM                    0          14" Floor Brush w/ Handle
+FLOOR BROOM 24 INCH            0          floor broom with handle
+FLUX                           0          Wedren Cover 131
+FORMAX F-90                    0          24 - case
+GASKET - SMALL                 0          Gasket - Small - Farr Co
+GLASWEVE 1.5 MM                0          1" X 2 1/2" mesh
+GLASWEVE 16 X 24               0          Mesh - 1.5 mm spacing
+GRINDING BELT                  0          2" X 132" X 36 Grit Belts
+GRINDING BELTS                 0          1 1/8"x 21 " 36 Grit
+GRINDING WHEEL                 0          30" x 2" x 12" Grinding Wheel
+GRINDING WHEEL-DISC            0          4" X .250 X 3/8 A24R T27
+HAND SOAP                      0          6 gal - case
+HARD CAP                       0          LR 46 (Yellow) AO Safety Brand
+HARPER 7418                    0          18 inch broom with handle
+HEATING ELEMENT                0          22" X 17" X 2 1/2" 8.3 KW
+HOT ROLL STEEL                 0          Hot Roll Steel 1" x 18" x 22"
+ISOPASTE PLUS 2000             0          Glue # 05096022
+ISOPASTE PLUS S                0          Catalyst  # 05095922
+KALPUR-ALUM 2X6                0          H/10PPI   Item # 416370
+LADLE WITH HANDLE              0          DL-3
+LADLE WITH LIPS                0          9 1/2" OD X 7 1/2" Deep 
+LAVA BAR SOAP                  0          Lava Bar Soap
+LEATHER WORK GLOVES            0          Large - HI-Q  472 STW
+LYDALL 550 L S                 0          1/8" x 48" x 50 
+MINRO-SIL                      0          1.2% Boren Oxide
+MIXER SLEEVES                  0          M-1580
+NITRO BAR                      0          3/8 X 20 Mesh
+NO BAKE PASTE                  0          13-200.1  - Drum #800
+OIL DRY                        0          50# bags
+OIS-101-2388                   0          Machine to Print
+OIS-101-2389                   0          Machine to print
+PEP SET CATALYST               0          3501 # 05370844
+PEP SET I-X 1000               0          2400# REPALTAINER
+PEP SET II-X-2000              0          2400# REPALTAINER
+PERM MOLD WASH                 0          White
+PERMANENT MOLD WASH            0          White
+POWDER COAT -PAINT             0          Powder Paint - Mallenkrau
+R SLEEVES                      0          2 X 12 Riser sleeves
+RAM                            0          RAM ONLY FOR REPAIR
+REBAR NO.6 GRADE 60            0          3/4 diameter x 20 feet
+RELEASE AGENT                  0          LP78 Zip Slip
+REPUBLIC                       0          Republic Heat Treat
+RISER SLEEVES MOLD             0          3 X 12 RISER SLEEVES
+RISER SLEEVES-MOLD             0          2 X 12 RISER SLEEVES 
+ROLL HAND TOWELS               0          8" X 350' 
+RUPTURE DISC                   0          509-297-000
+SAFETY GLASSES                 0          Red, White & Blue
+SAFETY GOGGLE                  0          3ZL19 - Chemical Impact
+SANDER DISCS                   0          Norton 12" 50 Grit R821 
+SANDY JET                      0          6ZF27 Kit w/ 3 nozzles
+SHELL CB RELEASE               0          Emulsion 77
+SHRINK WRAP                    0          80 Gauge
+SILICA SAND                    0          GRADE # 62
+SLAG COAGULANT                 0          Ladle Top
+STRONTIUM                      0          10/14  SR-SI  AL (1# pc)
+SULFUR                         0          Sulfur
+THERMOCOUPLE                   0          Latel Heater Type K
+THUNDER EAR MUFF               0          HLQM29
+TISSUE PAPER                   0          # 198
+VIB RAM 70                     0          POURING LADLE LININGS
+VIB RAM-RHI REFRACT            0          NARPHOS 85 TP
+WELDING GLOVES                 0          # 4300B
+WIRE MESH FACE SHIELD          0          W96MW 9" X 14.5" SCREEN W/WIN
+
+
+====================================================================================================
+UNKNOWN / NEEDS REVIEW (32 items)
+====================================================================================================
+Material                       Usage      Description
+----------------------------------------------------------------------------------------------------
+? FILTERS                      19260      Filters for Iron or Alum
+? INSERT -DOVER                91         Steel Insert for Dover 
+? 17-4 SS 1.5" ROUND           0          1.5" Rnd 17-4 SS Override Pin
+? 3.25" SHAFT 1018 STEEK       0          Power Parts
+? A3 TYPE SINGLE STONE         0          A3 GA46-PVE 1/4" x 2 3/4"
+? B50801                       0          
+? CARBON                       0          Graph-Hex 480
+? CASTERS                      0          Casters - Wheels for mold cart
+? CHARGE CHROME                0          HC 1/4  Fe Chr  
+? DIAMOND DUST                 0          Diamond Slurry  AM1014
+? GLUE BOTTLE                  0          32 oz squeeze bottle
+? HOT MELT GLUE                0          #3JN70
+? HOT TOP                      0          Expandex 544
+? HOT TOP FOR ALUM             0          Exotop NF
+? INNOCULANT-IRON              0          Tec Pro Sel Innoculant 
+? IRON OXIDE                   0          Black #3230
+? KALPUR-IRON 2X6              0          H/10PPI   Item # 159500
+? KAWL BLKT                    0          8#   2"X24"X25'
+? LASALLE STRESSPROOF TG&P     0          Lasalle Stressproof T,G & P
+? LASER CHECKS                 0          Accounts Payable Laser Checks
+? MAG FE SI                    0          5%
+? MG FE SI                     0          5%
+? MIXING TIP                   0          161-224-W
+? PLACARDS                     0          STYLE# ZVR91993
+? PLEXIGLASS                   0          Plexiglass for Farr
+? ROTOCOUPLER                  0          Part# 902141-192
+? SPINDLE                      0          Spindle for Mazak 400
+? STEEL SHOT S-460             0          S-460
+? TEST                         0          
+? TIBOR                        0          5/1 TI-B-AL 
+? VP 216 INNOCULENT            0          5 X 30 Mesh
+? ZIP SLIP 125H                0          Zip-Slip 125H

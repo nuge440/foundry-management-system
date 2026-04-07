@@ -1,0 +1,28 @@
+# Metal Classifications for JobBOSS Material Categorization
+# Format: CATEGORY | keyword1, keyword2, keyword3
+# Keywords are case-insensitive and checked as substrings
+# First match wins - order matters!
+
+# Ductile Iron
+Ductile_Iron | DUCTILE, DUCT
+
+# Gray Iron
+Gray_Iron | GRAY
+
+# Aluminum
+Aluminum | ALUMINUM, ALUM
+
+# Stainless Steel (check before general steel)
+Stainless_Steel | STAINLESS, SS, CF8, CF3, CF3M, 316L SS - CF3M, CA6NM, CD4MCUN, CD3MN - 2205 SS, CA15, CN7M, CG8M, CE3MN, CD3MWCUN, CD6MN, CN7M 
+
+# Carbon Steel (after stainless check)
+Steel | STEEL, WCB, WC1, WCC, 8630, 4140
+
+# Ni-Resist
+Ni_Resist | NI RESIST, NIRESIST
+
+# Bronze
+Bronze | BRONZE
+
+# Other Metals (catch-all for any other metal)
+Other_Metal |

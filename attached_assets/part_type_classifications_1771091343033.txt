@@ -1,0 +1,67 @@
+# Part Type Classifications for JobBOSS Sync
+# Format: PART_TYPE | keyword1, keyword2, keyword3
+# Lines are checked in order - first match wins
+# Use compound patterns first (most specific), then single keywords
+
+# COMPOUND PATTERNS (Most specific - check first)
+HOUSING | bearing housing, pump housing
+BODY | valve body
+
+# SINGLE KEYWORDS (Priority order - most common first)
+IMPELLER | impeller, imp., impellers
+HOUSING | housing, housng, hsg
+COVER | cover, cvr
+PISTON | piston, pstn
+HEAD | head
+SEAL | seal
+RING | ring, rng
+BODY | body, bidy
+CASE | case, casing
+VOLUTE | Volute, volute
+GEARBOX | Gearbox, 
+VALVE | valve, vlv
+BEARING | bearing, brng, brg
+BRACKET | bracket, brkt
+CYLINDER | cyl, cylinder,
+CAP | cap
+ADAPTER | adapter, adptr, adaptor
+FLANGE | flange, flng
+PLATE | plate, plt
+PIN | pin
+DISK | disk, disc
+WHEEL | wheel, whl
+SLEEVE | sleeve, slve
+SPACER | spacer, spcr
+COLLAR | collar, cllar
+CHAMBER | chamber
+BASE | base
+BLOCK | block
+SADDLE | saddle
+GATE | gate
+GLAND | gland
+LINER | liner
+SHAFT | shaft
+HUB | hub
+YOKE | yoke
+BONNET | bonnet
+FRAME | frame
+MANIFOLD | manifold
+ELBOW | elbow
+TEE | tee
+MOUNT | mount
+CLAMP | clamp
+GUIDE | guide
+PLUG | plug
+NUT | nut
+WASHER | washer, wshr
+RETAINER | retainer
+SPIDER | spider
+TUBE | tube
+UNION | union
+CONNECTOR | connector
+HANDLE | handle
+INSERT | insert
+FITTING | fitting
+
+# DEFAULT (if no match)
+OTHER |

@@ -1,0 +1,36 @@
+Microsoft Windows [Version 10.0.26200.7623]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\nugent\Downloads\sync>cd C:\Users\nugent\Downloads\sync\sync
+
+C:\Users\nugent\Downloads\sync\sync>python jb_sync.py --full
+2026-02-14 13:18:01,041 - INFO - Loaded 187 materials to exclude from excluded_materials.txt
+2026-02-14 13:18:01,041 - INFO - Loaded 57 part type classifications from part_type_classifications.txt
+2026-02-14 13:18:01,042 - INFO - Loaded 8 metal classifications from metal_classifications.txt
+============================================================
+JobBOSS to MongoDB Atlas - Dashboard-Safe Sync v3.0
+MODE: FULL RE-SYNC (all jobs will be re-processed)
+============================================================
+2026-02-14 13:18:01,794 - INFO - Connected to MongoDB Atlas
+2026-02-14 13:18:01,829 - INFO - FULL SYNC: Re-syncing all jobs from last 5 years (since 2021-02-15)
+2026-02-14 13:18:01,886 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:02,046 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:05,926 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:09,869 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:13,826 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:16,973 - INFO - Fetched materials for 7093 jobs (filtered out 4277 non-metals)
+2026-02-14 13:18:16,973 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:18,281 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:19,573 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:20,859 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:21,920 - INFO - Fetched deliveries for 282 jobs
+2026-02-14 13:18:21,921 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:21,957 - ERROR - Operations query failed for batch: ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Completed_Qty'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Statement(s) could not be prepared. (8180)")
+2026-02-14 13:18:21,959 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:21,995 - ERROR - Operations query failed for batch: ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Completed_Qty'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Statement(s) could not be prepared. (8180)")
+2026-02-14 13:18:21,997 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:22,033 - ERROR - Operations query failed for batch: ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Completed_Qty'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Statement(s) could not be prepared. (8180)")
+2026-02-14 13:18:22,035 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:18:22,062 - ERROR - Operations query failed for batch: ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Completed_Qty'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Statement(s) could not be prepared. (8180)")
+2026-02-14 13:18:22,063 - INFO - Fetched operations for 0 jobs (0 total ops)
+2026-02-14 13:18:22,151 - INFO - Fetched 7637 jobs updated since 2021-02-15 13:18:01.042639

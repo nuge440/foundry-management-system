@@ -1,0 +1,30 @@
+Microsoft Windows [Version 10.0.26200.7623]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\nugent\Downloads\sync\sync>python jb_sync.py --full
+2026-02-14 13:21:51,400 - INFO - Loaded 187 materials to exclude from excluded_materials.txt
+2026-02-14 13:21:51,400 - INFO - Loaded 57 part type classifications from part_type_classifications.txt
+2026-02-14 13:21:51,401 - INFO - Loaded 8 metal classifications from metal_classifications.txt
+============================================================
+JobBOSS to MongoDB Atlas - Dashboard-Safe Sync v3.0
+MODE: FULL RE-SYNC (all jobs will be re-processed)
+============================================================
+2026-02-14 13:21:52,115 - INFO - Connected to MongoDB Atlas
+2026-02-14 13:21:52,151 - INFO - FULL SYNC: Re-syncing all jobs from last 5 years (since 2021-02-15)
+2026-02-14 13:21:52,206 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:21:52,360 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:21:55,168 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:21:57,936 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:00,770 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:03,041 - INFO - Fetched materials for 7093 jobs (filtered out 4277 non-metals)
+2026-02-14 13:22:03,041 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:03,075 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:03,108 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:03,141 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:03,169 - INFO - Fetched deliveries for 282 jobs
+2026-02-14 13:22:03,169 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:08,925 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:14,588 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:20,272 - INFO - Connected to JobBOSS SQL Server
+2026-02-14 13:22:24,935 - INFO - Fetched operations for 7628 jobs (64618 total ops)
+2026-02-14 13:22:25,044 - INFO - Fetched 7637 jobs updated since 2021-02-15 13:21:51.401705
